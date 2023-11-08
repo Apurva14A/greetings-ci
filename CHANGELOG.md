@@ -1,3 +1,12 @@
+# [0.5.0](https://github.com/Apurva14A/greetings-ci/compare/v0.4.0...v0.5.0) (2023-11-08)
+
+
+### Features
+
+* add testing to pipeline ([7805538](https://github.com/Apurva14A/greetings-ci/commit/780553874cdd34dd9501129d4e8858eb0f5f593f))
+
+
+
 # [0.4.0](https://github.com/Apurva14A/greetings-ci/compare/v0.3.0...v0.4.0) (2023-11-08)
 
 

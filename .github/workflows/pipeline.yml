@@ -23,7 +23,7 @@ jobs:
 
     # Map a step output to a job output
     outputs:
-      artifact-tag: ${{ steps.changelog.outputs.version }
+      artifact-tag: ${{ steps.changelog.outputs.version }}
 
     steps:
     - uses: actions/checkout@v3

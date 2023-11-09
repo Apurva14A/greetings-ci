@@ -45,13 +45,18 @@ jobs:
     - name: Tag artifact 
       run: mv build/libs/greetings-ci.jar build/libs/greetings-ci-${{steps.changelog.outputs.version || github.event.inputs.myVersion }}.jar
 
-    - name: Upload Artifact
-      uses: actions/upload-artifact@v3
+    # - name: Upload Artifact
+    #   uses: actions/upload-artifact@v3
+    #   with:
+    #     name: greetings-jar
+    #     path: build/libs/test-script.sh
+
+    - run: mkdir -p build/libs
+    - uses: actions/upload-artifact@v3
       with:
         name: greetings-jar
         path: build/libs
-              test-script.sh
-        
+            
   # test-run:
   #   runs-on: self-hosted
   #   needs: build

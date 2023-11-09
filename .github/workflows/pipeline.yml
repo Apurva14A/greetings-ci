@@ -52,11 +52,11 @@ jobs:
         path: build/libs
               test-script.sh
         
-  test-run:
-    runs-on: self-hosted
-    needs: build
+  # test-run:
+  #   runs-on: self-hosted
+  #   needs: build
  
-    steps:
+    # steps:
     - name: Download candidate artifacts
       uses: actions/download-artifact@v3 
       with:

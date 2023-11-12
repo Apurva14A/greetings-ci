@@ -49,7 +49,9 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: greetings-jar
-        path: build/libs
+        path: |
+            build/libs
+            test-script.sh
         
   test-run:
     runs-on: ubuntu-latest
@@ -61,8 +63,8 @@ jobs:
       with:
        name: greetings-jar
  
-    # - name: Execute test
-    #   shell: bash
-    #   run: | 
-    #    chmod +x ./test-script.sh
-    #    ./test-script.sh ${{ needs.build.outputs.artifact-tag || github.event.inputs.myVersion }} ${{github.event.inputs.myValues }}
+    - name: Execute test
+      shell: bash
+      run: | 
+       chmod +x ./test-script.sh
+       ./test-script.sh ${{ needs.build.outputs.artifact-tag || github.event.inputs.myVersion }} ${{github.event.inputs.myValues }}

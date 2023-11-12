@@ -1,3 +1,12 @@
+# [0.9.0](https://github.com/Apurva14A/greetings-ci/compare/v0.8.0...v0.9.0) (2023-11-12)
+
+
+### Features
+
+* add testing to pipeline ([71d92dd](https://github.com/Apurva14A/greetings-ci/commit/71d92dd22f7dbf1779afafabd1d20a02551d5071))
+
+
+
 # [0.8.0](https://github.com/Apurva14A/greetings-ci/compare/v0.7.0...v0.8.0) (2023-11-09)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * add testing to pipeline ([7805538](https://github.com/Apurva14A/greetings-ci/commit/780553874cdd34dd9501129d4e8858eb0f5f593f))
-
-
-
-# [0.4.0](https://github.com/Apurva14A/greetings-ci/compare/v0.3.0...v0.4.0) (2023-11-08)
-
-
-### Features
-
-* adding testing to pipeline ([6fd17db](https://github.com/Apurva14A/greetings-ci/commit/6fd17db412fa19b384ea35c94c8a8f33341fcebe))
 
 
 

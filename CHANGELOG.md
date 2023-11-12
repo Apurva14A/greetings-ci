@@ -1,3 +1,12 @@
+# [0.11.0](https://github.com/Apurva14A/greetings-ci/compare/v0.10.0...v0.11.0) (2023-11-12)
+
+
+### Features
+
+* add wotkflow_dispatch ([1d0b6c0](https://github.com/Apurva14A/greetings-ci/commit/1d0b6c074b3191760c5092cb4c0c1295b1621bd7))
+
+
+
 # [0.10.0](https://github.com/Apurva14A/greetings-ci/compare/v0.9.0...v0.10.0) (2023-11-12)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * add testing to pipeline ([705a776](https://github.com/Apurva14A/greetings-ci/commit/705a776bd527e03c46f3efc7ce31792dc8499b0c))
-
-
-
-# [0.6.0](https://github.com/Apurva14A/greetings-ci/compare/v0.5.0...v0.6.0) (2023-11-09)
-
-
-### Features
-
-* add testing to pipeline ([ba3f403](https://github.com/Apurva14A/greetings-ci/commit/ba3f403236edd798059e14697aa21720401d5173))
 
 
 

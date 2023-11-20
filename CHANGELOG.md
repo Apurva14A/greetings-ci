@@ -1,3 +1,12 @@
+# [0.12.0](https://github.com/Apurva14A/greetings-ci/compare/v0.11.0...v0.12.0) (2023-11-20)
+
+
+### Features
+
+* add args to test script ([57f3a4b](https://github.com/Apurva14A/greetings-ci/commit/57f3a4beb163df35ee157b621f630c4a51ad27a8))
+
+
+
 # [0.11.0](https://github.com/Apurva14A/greetings-ci/compare/v0.10.0...v0.11.0) (2023-11-12)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * add testing to pipeline ([edf0db4](https://github.com/Apurva14A/greetings-ci/commit/edf0db4a6d310742834aa7aac45fea26335f3352))
-
-
-
-# [0.7.0](https://github.com/Apurva14A/greetings-ci/compare/v0.6.0...v0.7.0) (2023-11-09)
-
-
-### Features
-
-* add testing to pipeline ([705a776](https://github.com/Apurva14A/greetings-ci/commit/705a776bd527e03c46f3efc7ce31792dc8499b0c))
 
 
 

@@ -1,3 +1,12 @@
+# [0.15.0](https://github.com/Apurva14A/greetings-ci/compare/v0.14.0...v0.15.0) (2023-11-20)
+
+
+### Features
+
+* move test script to composite script ([199257e](https://github.com/Apurva14A/greetings-ci/commit/199257e03e1fb04bcee876b5979d1242eed37829))
+
+
+
 # [0.14.0](https://github.com/Apurva14A/greetings-ci/compare/v0.13.0...v0.14.0) (2023-11-20)
 
 
@@ -32,15 +41,6 @@
 ### Features
 
 * add wotkflow_dispatch ([1d0b6c0](https://github.com/Apurva14A/greetings-ci/commit/1d0b6c074b3191760c5092cb4c0c1295b1621bd7))
-
-
-
-# [0.10.0](https://github.com/Apurva14A/greetings-ci/compare/v0.9.0...v0.10.0) (2023-11-12)
-
-
-### Features
-
-* add testing to pipeline ([b31bce2](https://github.com/Apurva14A/greetings-ci/commit/b31bce299b9f527fb9181deba8e94d7128305ce5))
 
 
 

@@ -73,7 +73,7 @@ jobs:
        uses: ./.github/actions/test-action
        with:
          artifact-version: ${{ needs.build.outputs.artifact-tag || github.event.inputs.myVersion }}
-         arguments-to-print: ${{ github.event.inputs.myValues }
+         arguments-to-print: ${{ github.event.inputs.myValues }}
          
   create-issue-on-failure:
    needs: test-run

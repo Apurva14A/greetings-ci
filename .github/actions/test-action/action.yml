@@ -21,4 +21,4 @@ runs:
     run: |
        chmod +x ${{ github.action_path }}/test-script.sh
        ${{ github.action_path }}/test-script.sh ${{ inputs.artifact-version }} "$ARGS"
-   shell: bash
+    shell: bash
